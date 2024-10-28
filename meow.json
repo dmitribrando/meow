@@ -1,0 +1,22 @@
+{
+        "name": "Meow",
+        "is_dark": true,
+        "colors": {
+          "accent-color": "#E560A7",
+          "primary-color": "#E560A7",
+          "warning-color": "#E560A7",
+          "sidebar-color": "#3B2A32",
+          "roomlist-background-color": "#3B2A32",
+          "roomlist-text-color": "#eeeeee",
+          "roomlist-text-secondary-color": "#eeeeee",
+          "roomlist-highlights-color": "#00000030",
+          "roomlist-separator-color": "#20171A",
+          "timeline-background-color": "#2C2024",
+          "timeline-text-color": "#eeeeee",
+          "secondary-content": "#eeeeee",
+          "tertiary-content": "#eeeeee",
+          "timeline-text-secondary-color": "#dddddd",
+          "timeline-highlights-color": "#00000030",
+          "reaction-row-button-selected-bg-color": "#b9bbbe"
+        }
+}
