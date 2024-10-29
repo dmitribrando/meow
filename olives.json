@@ -1,0 +1,22 @@
+{
+        "name": "Olives",
+        "is_dark": true,
+        "colors": {
+          "accent-color": "#CFD747",
+          "primary-color": "#CFD747",
+          "warning-color": "#CFD747",
+          "sidebar-color": "#3B2A32",
+          "roomlist-background-color": "#282020",
+          "roomlist-text-color": "#FAEBC0",
+          "roomlist-text-secondary-color": "#FAEBC0",
+          "roomlist-highlights-color": "#00000030",
+          "roomlist-separator-color": "#282020",
+          "timeline-background-color": "#413C38",
+          "timeline-text-color": "#FAEBC0",
+          "secondary-content": "#FAEBC0",
+          "tertiary-content": "#FAEBC0",
+          "timeline-text-secondary-color": "#dddddd",
+          "timeline-highlights-color": "#00000030",
+          "reaction-row-button-selected-bg-color": "#b9bbbe"
+        }
+}
