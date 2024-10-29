@@ -1,6 +1,6 @@
 {
         "name": "Olives",
-        "is_dark": false,
+        "is_dark": true,
         "colors": {
           "accent-color": "#CFD747",
           "primary-color": "#CFD747",
