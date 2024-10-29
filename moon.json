@@ -1,0 +1,22 @@
+{
+        "name": "Moon",
+        "is_dark": true,
+        "colors": {
+          "accent-color": "#F9E37C",
+          "primary-color": "#C5A2BE",
+          "warning-color": "#F9E37C",
+          "sidebar-color": "#1B3C86",
+          "roomlist-background-color": "#162B4E",
+          "roomlist-text-color": "#7182F0",
+          "roomlist-text-secondary-color": "#7182F0",
+          "roomlist-highlights-color": "#00000030",
+          "roomlist-separator-color": "#161826",
+          "timeline-background-color": "#161826",
+          "timeline-text-color": "#7182F0",
+          "secondary-content": "#F9E37C",
+          "tertiary-content": "#F9E37C",
+          "timeline-text-secondary-color": "#7182F0",
+          "timeline-highlights-color": "#00000030",
+          "reaction-row-button-selected-bg-color": "#b9bbbe"
+        }
+}
