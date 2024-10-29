@@ -1,0 +1,22 @@
+{
+        "name": "Strangers",
+        "is_dark": true,
+        "colors": {
+          "accent-color": "#ADCDB5",
+          "primary-color": "#ADCDB5",
+          "warning-color": "#ADCDB5",
+          "sidebar-color": "#29150F",
+          "roomlist-background-color": "#2D2018",
+          "roomlist-text-color": "#C9E1C9",
+          "roomlist-text-secondary-color": "#C9E1C9",
+          "roomlist-highlights-color": "#00000030",
+          "roomlist-separator-color": "#1C0905",
+          "timeline-background-color": "#332B27",
+          "timeline-text-color": "#C9E1C9",
+          "secondary-content": "#C9E1C9",
+          "tertiary-content": "#C9E1C9",
+          "timeline-text-secondary-color": "#dddddd",
+          "timeline-highlights-color": "#00000030",
+          "reaction-row-button-selected-bg-color": "#b9bbbe"
+        }
+}
