@@ -1,0 +1,22 @@
+{
+        "name": "Corn",
+        "is_dark": true,
+        "colors": {
+          "accent-color": "#FC3703",
+          "primary-color": "#FC3703",
+          "warning-color": "#FC3703",
+          "sidebar-color": "#412637",
+          "roomlist-background-color": "#412637",
+          "roomlist-text-color": "#FFB691",
+          "roomlist-text-secondary-color": "#FFB691",
+          "roomlist-highlights-color": "#00000030",
+          "roomlist-separator-color": "#341010",
+          "timeline-background-color": "#442739",
+          "timeline-text-color": "#FFB691",
+          "secondary-content": "#FFB691",
+          "tertiary-content": "#FFB691",
+          "timeline-text-secondary-color": "#FFB691",
+          "timeline-highlights-color": "#00000030",
+          "reaction-row-button-selected-bg-color": "#b9bbbe"
+        }
+}
