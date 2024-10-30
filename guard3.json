@@ -1,0 +1,22 @@
+{
+        "name": "Guard",
+        "is_dark": true,
+        "colors": {
+          "accent-color": "#bc8f24",
+          "primary-color": "#bc8f24",
+          "warning-color": "#bc8f24",
+          "sidebar-color": "#3f4334",
+          "roomlist-background-color": "#345e2e",
+          "roomlist-text-color": "#b4d990",
+          "roomlist-text-secondary-color": "#b4d990",
+          "roomlist-highlights-color": "#213a1d",
+          "roomlist-separator-color": "#213a1d",
+          "timeline-background-color": "#344330",
+          "timeline-text-color": "#b4d990",
+          "secondary-content": "#b4d990",
+          "tertiary-content": "#b4d990",
+          "timeline-text-secondary-color": "#dddddd",
+          "timeline-highlights-color": "#b4d990",
+          "reaction-row-button-selected-bg-color": "#b9bbbe"
+        }
+}
